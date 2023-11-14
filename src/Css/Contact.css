@@ -1,0 +1,23 @@
+.contact{
+    max-width: 800px;
+    margin: 6em auto;
+    background-color: rgb(162, 255, 255);
+    padding-top: 60px;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-bottom: 60px;
+    box-shadow: 5px 10px rgb(225, 251, 251);;
+}
+
+
+input{
+    width: 100%;
+    padding: .6em;margin-bottom: 1em;
+    border: .1em solid;
+    outline: none;
+    font-size: 1rem;
+}
+label{
+    font-size: 1rem;
+    font-weight: bold;
+}

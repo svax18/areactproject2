@@ -1,0 +1,24 @@
+footer{
+    position: fixed;
+    background-color: gray;
+    bottom: 0;
+    width:100%;
+    
+    padding:.5em;
+
+}
+.bar{
+    width:30%;
+}
+.Information{
+    width:90%;
+    padding-top: 15px;
+    margin-left: 5%;
+}
+
+.Information p{
+    text-align: center;
+    color: black;
+    margin-bottom: 1em;
+}
+

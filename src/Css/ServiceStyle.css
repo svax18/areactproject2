@@ -1,0 +1,34 @@
+.services{width: 100%;
+    background-color: white;
+    margin: 1em 0;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 250px;
+
+}
+h1{
+    text-align: center;
+}
+.card{
+    width: 25%;
+    text-align: center;
+    box-shadow: 0 0 3px black;
+    padding: 1em;
+}
+.SeImg{
+    width: 210px;
+    height: 210px;
+    object-fit: contain;
+}
+    @media screen  and (max-width:800px){.services{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .card{
+        width: 60%;
+        margin-bottom: 2em;
+        margin-right: 1em;
+    }
+}

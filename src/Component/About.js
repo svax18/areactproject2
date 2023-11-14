@@ -25,7 +25,11 @@ const About = () => {
         </p>
         <div className="btnBox">
           <div className="btn">
-            <NavLink to="/ " className="NavItem" activeClassName="activeItem">
+            <NavLink
+              to="/contact "
+              className="NavItem"
+              activeClassName="activeItem"
+            >
               Contact Us
             </NavLink>
           </div>

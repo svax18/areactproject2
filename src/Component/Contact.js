@@ -21,7 +21,11 @@ const Contact = () => {
         </div>
         <div className="btnBox">
           <div className="btn">
-            <NavLink to="/ " className="NavItem" activeClassName="moreinfo">
+            <NavLink
+              to="/contact "
+              className="NavItem"
+              activeClassName="moreinfo"
+            >
               Enter Details
             </NavLink>
           </div>

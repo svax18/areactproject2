@@ -1,6 +1,7 @@
 header{
     background-color: gray;
-    padding:.5em
+    padding:.5em;
+    margin-bottom: 15px;
 }
 .container{
     width: 95%;

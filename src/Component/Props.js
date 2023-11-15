@@ -1,4 +1,4 @@
-import logo from "../Img/Nr2.jpg";
+import logo from "../Img/Nr3.jpg";
 function service(props) {
   return (
     <>

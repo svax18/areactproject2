@@ -3,6 +3,7 @@ import { NavLink } from "react-router-dom";
 import logo from "../Img/Nr1.jpg";
 import "../Css/Home.css";
 
+const MyElement = <car brand="Ford" />;
 const About = () => {
   return (
     <div className="MainSec">
